@@ -35,6 +35,9 @@ Jacobs 2/7/24 rough notes:
     -Non-traditional sources of revenue?
     -Charging vehicles as well as other electrical equipment?
     -Possibility of charging a premium for businesses implementing the system
+__________
+
+
 ----------------
 
 
