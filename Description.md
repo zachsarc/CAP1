@@ -10,13 +10,6 @@
 ## Design
 
 
-
-### Encrypted output
-
-
-### Cipher Selector
-
-
 ## Team Roles
 | Role           | Name             |
 | :---           | :---             |
