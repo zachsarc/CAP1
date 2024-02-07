@@ -1,5 +1,7 @@
 # CAP1
-AI Powerlines
+##AI Powerlines
+# link for the group doc : https://docs.google.com/document/d/1YgMAm3uR61aoxblpcrskBhRwPU1d6WZLW-vgI7R4Vcg/edit?usp=sharing
+
 ## How does it work and what is the revenue potential, we could also dive into security issues.
 ## How does it work and what is the revenue potential as far as revenue goes, we could also dive into security issues.
 ----------------
