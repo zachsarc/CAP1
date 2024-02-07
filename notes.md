@@ -26,7 +26,15 @@ skohl 2/7/24 rough notes:
     -	Use this power source as another revenue source: use as drone landing/charging; atmospheric analysis; pick up gunshot triangulation; 
   Selling/innovation on powerlines 
 __________
-
+Jacobs 2/7/24 rough notes:
+  -Functionality:
+    -Detects any system change in power grid such as drop in voltage
+    change downed power line and a re-routing of power
+    -Allows capability to change load dependacny to increase efficiancy
+    -Saves revenue in insurance claims, dependancy on man-hours from utility crews
+    -Non-traditional sources of revenue?
+    -Charging vehicles as well as other electrical equipment?
+    -Possibility of charging a premium for businesses implementing the system
 ----------------
 
 
