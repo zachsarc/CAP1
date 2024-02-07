@@ -7,16 +7,6 @@
 ## Functions
 
 
-
-### Select a cipher
-
-
-### Apply cipher
-
-
-### Return encrypted output
-
-
 ## Design
 
 
