@@ -12,6 +12,19 @@ NOTES
 -
 -
 
+_______
+skohl 2/7/24 rough notes:
+
+  Third patent issued, fourth pending 
+  Homeowner uses smart system to remove load 
+  Has to be initiated legislatively 
+  Electric cars (perhaps using smart powerlines as charging stations)
+  Anticipate when emergency response required 
+  Motivate utility companies by proving this will reduce/prevent insurance liability action 
+    -	Use this power source as another revenue source: use as drone landing/charging; atmospheric analysis; pick up gunshot triangulation; 
+  Selling/innovation on powerlines 
+__________
+
 ----------------
 
 
